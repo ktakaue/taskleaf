@@ -1,24 +1,8 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[内容]<br>
+・基本的な CRUD 機能<br>
+・ログイン、ログアウト機能<br>
+・データの絞り込み機能<br>
+・RSpec を用いた簡単なテスト機能<br>
+*参考書籍:<br>
+・現場で使える Ruby on Rails 5 速習実践ガイド ( マイナビ出版) ・プロを目指す人のための Ruby 入門 言語仕様からテスト駆動開発・デバッグ技法まで (技術評論社)
